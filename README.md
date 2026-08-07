@@ -183,6 +183,3 @@ You can include screenshots such as:
 - Expand the dataset with thousands of records
 
 ---
-thon
-
-If you found this project useful, feel free to ⭐ this repository.
